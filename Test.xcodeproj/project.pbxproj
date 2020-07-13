@@ -13,6 +13,7 @@
 		C54E13BE24BA68C2005B32BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C54E13BD24BA68C2005B32BC /* Assets.xcassets */; };
 		C54E13C124BA68C2005B32BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C54E13C024BA68C2005B32BC /* Preview Assets.xcassets */; };
 		C54E13C424BA68C2005B32BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C54E13C224BA68C2005B32BC /* LaunchScreen.storyboard */; };
+		C54E13CC24BA6AB5005B32BC /* Boiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = C54E13CB24BA6AB5005B32BC /* Boiz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C54E13C024BA68C2005B32BC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C54E13C324BA68C2005B32BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C54E13C524BA68C2005B32BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C54E13CB24BA6AB5005B32BC /* Boiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Boiz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C54E13C224BA68C2005B32BC /* LaunchScreen.storyboard */,
 				C54E13C524BA68C2005B32BC /* Info.plist */,
 				C54E13BF24BA68C2005B32BC /* Preview Content */,
+				C54E13CB24BA6AB5005B32BC /* Boiz.swift */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C54E13B824BA68BF005B32BC /* AppDelegate.swift in Sources */,
+				C54E13CC24BA6AB5005B32BC /* Boiz.swift in Sources */,
 				C54E13BA24BA68BF005B32BC /* SceneDelegate.swift in Sources */,
 				C54E13BC24BA68BF005B32BC /* ContentView.swift in Sources */,
 			);
